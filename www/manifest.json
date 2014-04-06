@@ -1,0 +1,14 @@
+{
+    "name": "Grada.me",
+    "description": "Grada.me - Report, review, discuss local problems",
+    "version": "0.1",
+    "app": {
+        "background": {
+            "scripts": ["js/background.js"]
+        }
+    },
+    "icons": { 
+        "16": "images/icons/calculator-16.png", 
+        "128": "images/icons/calculator-128.png" 
+    }
+}

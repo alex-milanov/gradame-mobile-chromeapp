@@ -1,0 +1,23 @@
+{
+  "name": "gradame-mobile",
+  "version": "0.0.0",
+  "authors": [
+    "Andriyan Ivanov <andriyan.ivanov@gmail.com>"
+  ],
+  "description": "Grada.me mobile app (dummy)",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "homepage": "http://grada.me/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-chrome-apps": "~0.0.1"
+  }
+}
