@@ -1,6 +1,7 @@
 node_modules
 platforms/*
 plugins/*
+!plugins/org.chromium.bootstrap
 merges
 www/lib
 platforms

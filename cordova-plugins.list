@@ -8,7 +8,6 @@ org.apache.cordova.network-information
 org.apache.cordova.keyboard
 org.apache.cordova.statusbar
 #org.chromium.navigation
-#org.chromium.bootstrap
 org.chromium.common
 #org.chromium.runtime
 #org.chromium.storage
